@@ -4,7 +4,7 @@ module.exports = {
     title: `Dustin's tech thoughts`,
     author: `Dustin Stover`,
     description: `The personal blog of my thoughts and opinions`,
-    siteUrl: ``,
+    siteUrl: `https://unruffled-murdock-cfe410.netlify.com/`,
     social: {
       twitter: `BifuuPlays`,
     },
