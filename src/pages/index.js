@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = "Dustin's Tech"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -16,8 +16,7 @@ class IndexPage extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
 
-        <h1>Dustin's Tech</h1>
-        <p>Welcome to my tech page.</p>
+        <h1>Welcome to my tech page.</h1>
         <p>Here I will confess my love for all things technology.</p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
