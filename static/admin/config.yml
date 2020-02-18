@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bifuu/personal-site
+  repo: Bifuu/personal-site
 
 media_folder: static/assets
 public_folder: assets
